@@ -1,8 +1,8 @@
 # Marrel et al. (2010) Campbell2D pipeline (Python reproduction)
 
-This artifact reproduces the spatial Sobol' index pipeline described in:
-Marrel, A., Iooss, B., Laurent, B., & Roustant, O. (2010). Global sensitivity analysis for models with spatially dependent outputs. *Environmetrics*.
-Preprint: https://arxiv.org/pdf/0911.1189
+This pipeline reproduces the spatial Sobol' index pipeline described in:
+Amandine Marrel, Bertrand Iooss, Michel Jullien, B´eatrice Laurent, and Elena Volkova. Global
+sensitivity analysis for models with spatially dependent outputs. Environmetrics, 22(3):383–397, 2010. doi: 10.1002/env.1071. URL https://doi.org/10.1002/env.1071.
 
 ## What is reproduced (Campbell2D study)
 
